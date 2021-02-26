@@ -61,6 +61,11 @@ nav a{
 /*Write selector/rule property to add an underline when
 links in the navigation are in the hover or focus state.*/
 
+a:hover{
+
+  text-decoration: underline;
+}
+
 /*Req 3a*/
 .skip a{
   background: white;
