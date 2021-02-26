@@ -75,8 +75,14 @@ a:hover{
   -webkit-transition: top 1s ease-out;
   transition: top 1s ease-out;
   z-index: 1;
+  position: relative;
+  bottom: 20px;
+  
+}
 
-  /*Your code here*/
+:focus{
+
+
 }
 /*Req 3b*/
 /*Write selector/rule property to position the skip class element*/
