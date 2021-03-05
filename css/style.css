@@ -74,12 +74,13 @@ a:hover{
   -webkit-transition: top 1s ease-out;
   transition: top 1s ease-out;
   z-index: 1;
-  position: relative;
+  position: absolute;
   bottom: -50px;
 }
 
 .skip a:focus{
 
+position: absolute;
 top: 10px;
 
 }
