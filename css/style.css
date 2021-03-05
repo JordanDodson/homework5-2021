@@ -67,7 +67,7 @@ a:hover{
 }
 
 /*Req 3a*/
-.skip{
+.skip a{
   background: white;
   left: 0;
   padding: 7px;
@@ -75,7 +75,7 @@ a:hover{
   transition: top 1s ease-out;
   z-index: 1;
   position: relative;
-  bottom: 20px;
+  bottom: -50px;
 }
 
 .skip a:focus{
